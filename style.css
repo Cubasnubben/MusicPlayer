@@ -27,6 +27,20 @@ h1 {
       text-shadow: 16px 22px 11px rgba(0, 0, 0, 0.719);
     }
 
+    .logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.logo img {
+    width: 100%;
+    height: auto;
+}
+
+
+
 .music-container {
     background-color: rgba(26, 138, 117, 0.43);
     border-radius: 15px;
