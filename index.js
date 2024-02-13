@@ -11,11 +11,11 @@ const cover = document.querySelector("#cover");
 //sångtitel
 
 const songs = [
-  "Blind",
-  "Here To Stay",
   "Freak On A Leash",
   "Got The Life",
   "Did My Time",
+  "Here To Stay",
+  "Blind",
 ];
 
 let songIndex = 0;
